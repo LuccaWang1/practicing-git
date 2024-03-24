@@ -4,8 +4,8 @@
 This project is for practicing git, creating new branches - one for each feature, pull requests, reviews, approvals, and pushing.
 
 ## Table of Contents 
-- Author
 - Technologies Used
+- Author
 
 ## Technologies Used 
 * Git
